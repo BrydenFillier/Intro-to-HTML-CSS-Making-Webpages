@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            .list{
+                color: rgb(255,20,20);
+            }
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <p> A place that is called A.Y. Jackson</p>
+        <p> Paragraph 2</p>
+        <h2>HEADER 2</h2>
+        <ul>
+            <li class = "list">Oof?</li>
+            <li class = "list"> Nice.</li>
+            <li> Noice.</li>
+            
+        </ul>
+        <ol>
+            <li> no</li>
+            <li> yes</li>
+            <li> no</li>
+        </ol>
+        <img src= "https://www.kasandbox.org/programming-images/avatars/aqualine-seed.png">
+        <img src= "https://www.kasandbox.org/programming-images/avatars/aqualine-tree.png">
+        <img src= "https://www.kasandbox.org/programming-images/avatars/aqualine-seedling.png">
+        
+        
+        
+        
+        
+    </body>
+</html>
