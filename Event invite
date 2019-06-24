@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+           .YES{
+               color:rgb(207, 114, 207);
+               width:30px;
+               float:right;
+           } 
+           .Yes2{
+               color:rgb(60, 55, 199);
+           }
+           #ayj{
+               color:rgb(48, 501, 661);
+               height:20px;
+               margin:20px;
+           }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To something!</h2>
+       <div class = "YES"> <h3>YES</h3>
+        <h4>YES</h4>
+        <h5>YES</h5> </div>
+        <h6 class = "Yes2">YES</h6>
+        <p>The details:</p>
+        <ul>
+            <li id = "ayj">at ayj</li>
+            <li>2pm</li>
+            <li>Come to the party</li>
+        </ul>
+        
+    </body>
+</html>
