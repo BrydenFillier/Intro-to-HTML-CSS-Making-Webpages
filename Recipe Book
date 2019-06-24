@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h2{
+            color:rgb(255,4,4);
+        }
+        p{
+            color:rgb(224, 130, 224);
+        }
+        #batman{
+            color:rgb(194, 140, 194);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id = "batman">Bryden's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="https://memes.com/">Recipe #1</a></li>
+        </ol>
+        <!-- YES -->
+        <h2 id="?">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: _</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Yes</th>
+                    <th>Yes</th>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+</p><a href = "https://www.kasandbox.org/programming-images/avatars/aqualine-sapling.png"><img src= "https://www.kasandbox.org/programming-images/avatars/aqualine-sapling.png"></a>
+        
+    <p><em>Source: <a href="https://memes.com/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
